@@ -961,6 +961,7 @@ class MonitorComponent extends BaseComponent {
                     <button type="button"
                             class="btn btn-icon dropdown-toggle no-caret d-flex align-items-center justify-content-center"
                             data-toggle="dropdown"
+                            data-bs-toggle="dropdown"
                             aria-haspopup="true"
                             aria-expanded="false"
                             title="${actionslabel}">
